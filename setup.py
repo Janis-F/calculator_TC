@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='calc',
+    name='calculator',
     version='0.0.1',
     author='Janis Freimanis',
     author_email='janis.freimanis@hey.com',
-    description='Simple calc',
+    description='Simple calculator',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/Janis-F/calculator.git',
+    url='https://github.com/Janis-F/calculator_TC.git',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
