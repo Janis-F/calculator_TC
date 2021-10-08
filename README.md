@@ -18,7 +18,7 @@ Calculator can perform the following operations:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculator.
 
 ```bash
-pip install git+https://github.com/Janis-F/calculator
+pip install git+https://github.com/Janis-F/calculator_TC
 ```
 
 ## Usage
